@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MR.Burler
 
 You can use the [editor on GitHub](https://github.com/daesme22/daesme22.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,7 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-#MR. Butler Projekt
 ## Header 2
 ### Header 3
 
