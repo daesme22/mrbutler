@@ -1,10 +1,18 @@
 ## MR.Butler
-Diese Website ist 
+
+Dieses Projekt ist für Ubiquitous Computing Klass und wird in verschiedene Phasen geteilt. Was ist exakt Mr.Butler?
+Meine Idee für dieses Projekt ist, einen kleinen Tischroboter zu machen, eine kleine Box mit einem LED-Display oder einem TFT-Display. 
+Am Ende was ich machen will ist es eine kleine Box, die Ihnen die Zeit, Terminplan oder das Wetter sagen würde.
+Etwas die man auf den Nachttisch stellen kann, sodass bevor man ins Bett geht sehen kann welche Uhr es ist, was am nächsten Tag machen soll oder nur 
+das Klima sehen. Eine kleine Schachtel, in die man die Schlüssel und vielleicht die Uhr vor dem Schlafengehen legt. Etwas Einfaches, aber Nützliches, die man jeden Tag 
+nutzen kann.
+
+Diese Website ist auf dieser Seite werde ich nach oben gehen und die verschiedenen Änderungen und Aktualisierungen des Projekts erklären
 You can use the [editor on GitHub](https://github.com/daesme22/daesme22.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Projekte 
+### Phase 
 
 Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hängen von wie viel Zeit ich brauche für die verschiedenen Komponenten kennenzulernen, wie viel Zeit dauerte, bis alle Komponenten hier sind (Ich lebe auf einer Insel und nicht alle Komponenten sind hier und die Sendungen dauern viel wegen Corona), ob es viel kompliziert ist zu programmiert, was ich will (ob es ist möglich es).... 
 Dieses Projekt mache ich es allein, aufgrund der aktuellen Situation.
