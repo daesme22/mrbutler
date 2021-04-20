@@ -7,18 +7,15 @@ Etwas die man auf den Nachttisch stellen kann, sodass bevor man ins Bett geht se
 das Klima sehen. Eine kleine Schachtel, in die man die Schlüssel und vielleicht die Uhr vor dem Schlafengehen legt. Etwas Einfaches, aber Nützliches, die man jeden Tag 
 nutzen kann.
 
-Diese Website ist auf dieser Seite werde ich nach oben gehen und die verschiedenen Änderungen und Aktualisierungen des Projekts erklären
-You can use the [editor on GitHub](https://github.com/daesme22/daesme22.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Phase 
 
 Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hängen von wie viel Zeit ich brauche für die verschiedenen Komponenten kennenzulernen, wie viel Zeit dauerte, bis alle Komponenten hier sind (Ich lebe auf einer Insel und nicht alle Komponenten sind hier und die Sendungen dauern viel wegen Corona), ob es viel kompliziert ist zu programmiert, was ich will (ob es ist möglich es).... 
-Dieses Projekt mache ich es allein, aufgrund der aktuellen Situation.
 
+1.Phase
+- Lernen, wie es geht mit Arduino und wie kann man alles bauen, dann anfangen zu programmiert etwas einfach zum Beispiel Programmierung von ein- und ausschalten von Lichtern mit einem Kontroller.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2.Phase
+-Lernen, wie es geht mit Arduino und wie kann man alles bauen, dann anfangen zu programmiert etwas einfach zum Beispiel Programmierung von ein- und ausschalten von Lichtern mit einem Kontroller.
 
 ```markdown
 Syntax highlighted code block
