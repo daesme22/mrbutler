@@ -15,7 +15,7 @@ Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hän
 - Lernen, wie es geht mit Arduino und wie kann man alles bauen, dann anfangen zu programmiert etwas einfach zum Beispiel Programmierung von ein- und ausschalten von Lichtern mit einem Kontroller.
 
 2.Phase
--Lernen, wie es geht mit Arduino und wie kann man alles bauen, dann anfangen zu programmiert etwas einfach zum Beispiel Programmierung von ein- und ausschalten von Lichtern mit einem Kontroller.
+-Programmierung von einem kleinen Uhr mit kleinen Lichtern, kleinen Bildschirm oder mit LED-Lichtern, vielleicht auch das Datum setzen. Ich möchte verschiedene Komponenten ausprobieren, um herauszufinden, welche Komponente ist der best für was ich machen möchte. So kann ich mehr über die verschiedenen Komponenten lernen.
 
 ```markdown
 Syntax highlighted code block
