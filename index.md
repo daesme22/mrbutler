@@ -17,6 +17,17 @@ Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hän
 2.Phase
 - Programmierung von einem kleinen Uhr mit kleinen Lichtern, kleinen Bildschirm oder mit LED-Lichtern, vielleicht auch das Datum setzen. Ich möchte verschiedene Komponenten ausprobieren, um herauszufinden, welche Komponente ist der best für was ich machen möchte. So kann ich mehr über die verschiedenen Komponenten lernen.
 
+3.Phase
+- Entscheiden welche komponent das beste ist für mein Projekt, dann kann die finales Version aufbauen und anfangen alles zu programmier.
+
+4.Phase 
+- Ein kleines Menü schreiben, wo die User verschiedenen Sachen selektieren kann, diese werden Uhr, Pixelart, Datum und Klima sehen kann. Vielleicht auch Notizen oder Erinnerungen schreiben.
+
+### Designideas
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
