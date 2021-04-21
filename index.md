@@ -24,12 +24,7 @@ Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hän
 - Ein kleines Menü schreiben, wo die User verschiedenen Sachen selektieren kann, diese werden Uhr, Pixelart, Datum und Klima sehen kann. Vielleicht auch Notizen oder Erinnerungen schreiben.
 
 ### Designideas
-
-![https://github.com/daesme22/mrbutler/mrbutler.png](https://github.com/daesme22/mrbutler/mrbutler.png)
-![](https://github.com/daesme22/mrbutler/mrbutler.png)
- https://github.com/daesme22/mrbutler/blob/main/mrbutler.png
- https://github.com/daesme22/mrbutler/mrbutler.png
-
+![](https://raw.githubusercontent.com/daesme22/mrbutler/main/mrbutler.png)
 
 ```markdown
 Syntax highlighted code block
