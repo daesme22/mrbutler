@@ -24,7 +24,12 @@ Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hän
 - Ein kleines Menü schreiben, wo die User verschiedenen Sachen selektieren kann, diese werden Uhr, Pixelart, Datum und Klima sehen kann. Vielleicht auch Notizen oder Erinnerungen schreiben.
 
 ### Designideas
+1.Phase 
+etwas Einfaches, das nicht zu schwer zu bauen und zu programmieren ist
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/light.png)
+
+2. und 3. Phase
+sehen welche ist die beste Komponent
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/reloj.png)
 
 4.Phase end design
