@@ -26,6 +26,7 @@ Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hän
 ### Designideas
 1.Phase 
 etwas Einfaches, das nicht zu schwer zu bauen und zu programmieren ist
+
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/light.png)
 
 2. und 3. Phase
@@ -33,6 +34,7 @@ sehen welche ist die beste Komponent
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/reloj.png)
 
 4.Phase end design
+
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/mrbutler.png)
 
 ```markdown
