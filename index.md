@@ -29,7 +29,7 @@ etwas Einfaches, das nicht zu schwer zu bauen und zu programmieren ist
 
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/light.png)
 
-2. & 3. Phase
+2+3. Phase
 sehen welche ist die beste Komponent
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/reloj.png)
 
