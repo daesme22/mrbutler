@@ -1,4 +1,4 @@
-## MR.Butler/ [Updates](https://daesme22.github.io/mrbutler/index copy.md)
+## MR.Butler/ [Updates](https://daesme22.github.io/mrbutler/copy.md)
 
 copia de la pagina prueba uno 
 
