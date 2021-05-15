@@ -1,4 +1,4 @@
-## MR.Butler/ [Updates](https://daesme22.github.io/mrbutler/updates.md)
+## MR.Butler/ [Updates](https://daesme22.github.io/mrbutler/copy.md)
 
 Dieses Projekt ist für Ubiquitous Computing Klass und wird in verschiedene Phasen geteilt. Was ist exakt Mr.Butler?
 Meine Idee für dieses Projekt ist, einen kleinen Tischroboter zu machen, eine kleine Box mit einem LED-Display oder einem TFT-Display. 
