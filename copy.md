@@ -54,3 +54,6 @@ sehen welche ist die beste Komponent
 
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/mrbutler.png)
 
+
+theme: jekyll-theme-architect
+remote_theme: jekyll-theme-architect
