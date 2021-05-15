@@ -23,6 +23,21 @@ Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hän
 4.Phase 
 - Ein kleines Menü schreiben, wo die User verschiedenen Sachen selektieren kann, diese werden Uhr, Pixelart, Datum und Klima sehen kann. Vielleicht auch Notizen oder Erinnerungen schreiben.
 
+### Komponenten 
+Kabel im Allgemeinen  
+1 X Arduino uno 
+1 X Breadboard
+1 X IIC 1602 LCD
+1 X 4-stellige anzeige rohr
+1 X 8*8 Dot matrix modul
+1 X Uhr Modul
+1 X XY joystick modul
+1 X RGB 3 farbe modul
+1 X Pack Widerstand
+1 X fernbedienung
+5 X LED Licht
+
+
 ### Designideas
 1.Phase 
 etwas Einfaches, das nicht zu schwer zu bauen und zu programmieren ist
