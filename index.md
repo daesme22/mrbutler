@@ -1,4 +1,4 @@
-## MR.Butler/ [Updates](https://daesme22.github.io/mrbutler/copy.md)
+## MR.Butler
 
 Dieses Projekt ist für Ubiquitous Computing Klass und wird in verschiedene Phasen geteilt. Was ist exakt Mr.Butler?
 Meine Idee für dieses Projekt ist, einen kleinen Tischroboter zu machen, eine kleine Box mit einem LED-Display oder einem TFT-Display. 
@@ -13,6 +13,9 @@ Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hän
 
 1.Phase
 - Lernen, wie es geht mit Arduino und wie kann man alles bauen, dann anfangen zu programmiert etwas einfach zum Beispiel Programmierung von ein- und ausschalten von Lichtern mit einem Kontroller.
+- 
+![](https://raw.githubusercontent.com/daesme22/mrbutler/main/Phase_0.png)
+![](https://raw.githubusercontent.com/daesme22/mrbutler/main/Phase.png)
 
 2.Phase
 - Programmierung von einem kleinen Uhr mit kleinen Lichtern, kleinen Bildschirm oder mit LED-Lichtern, vielleicht auch das Datum setzen. Ich möchte verschiedene Komponenten ausprobieren, um herauszufinden, welche Komponente ist der best für was ich machen möchte. So kann ich mehr über die verschiedenen Komponenten lernen.
@@ -52,3 +55,5 @@ sehen welche ist die beste Komponent
 
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/mrbutler.png)
 
+
+[Updates](https://daesme22.github.io/mrbutler/copy.md)
