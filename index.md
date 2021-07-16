@@ -19,6 +19,7 @@ Diese Idee oder Projekt wird in verschiedenen Phasen geteilt, diesen Phasen hän
 
 2.Phase
 - Programmierung von einem kleinen Uhr mit kleinen Lichtern, kleinen Bildschirm oder mit LED-Lichtern, vielleicht auch das Datum setzen. Ich möchte verschiedene Komponenten ausprobieren, um herauszufinden, welche Komponente ist der best für was ich machen möchte. So kann ich mehr über die verschiedenen Komponenten lernen.
+- ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/Phase_02.png)
 
 3.Phase
 - Entscheiden welche komponent das beste ist für mein Projekt, dann kann die finales Version aufbauen und anfangen alles zu programmier.
@@ -50,9 +51,11 @@ etwas Einfaches, das nicht zu schwer zu bauen und zu programmieren ist
 2+3. Phase
 sehen welche ist die beste Komponent
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/reloj.png)
+ ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/Phase_02.png)
+
 
 4.Phase 
-
+ ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/Phase_02.png)
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/mrbutler.png)
 
 
