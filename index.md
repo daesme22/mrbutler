@@ -51,8 +51,6 @@ etwas Einfaches, das nicht zu schwer zu bauen und zu programmieren ist
 2+3. Phase
 sehen welche ist die beste Komponent
 ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/reloj.png)
- ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/Phase_02.jpg)
-
 
 4.Phase 
  ![](https://raw.githubusercontent.com/daesme22/mrbutler/main/Phase_02.jpg)
